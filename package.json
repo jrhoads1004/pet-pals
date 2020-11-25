@@ -1,0 +1,32 @@
+{
+    "name": "petpals01",
+    "version": "1.0.0",
+    "description": "pet pals",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cool-ascii-faces": "^1.3.4",
+      "certifi": "2020.11.8",
+      "click": "7.1.2",
+      "Flask": "1.1.2",
+      "Flask-SQLAlchemy": "2.4.4",
+      "gunicorn": "20.0.4",
+      "itsdangerous": "1.1.0",
+      "Jinja2": "2.11.2",
+      "MarkupSafe": "1.1.1",
+      "SQLAlchemy": "1.3.20",
+      "Werkzeug": "1.0.1"
+
+    },
+  
+  
+  "scripts": {
+      "start": "node your-script.js"
+    }
+  }
+  
