@@ -13,13 +13,7 @@
         "node": ">=15.x"
     },
     "dependencies": {
-      "cool-ascii-faces": "^1.3.4",
-      "gunicorn": "20.0.4",
-      "itsdangerous": "1.1.0",
-      "Jinja2": "2.11.2",
-      "markupsafe": "1.1.1",
-      "sqlalchemy": "1.3.20",
-      "werkzeug": "1.0.1"
+      "cool-ascii-faces": "^1.3.4"
 
     },
   
