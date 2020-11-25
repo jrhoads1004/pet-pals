@@ -10,8 +10,8 @@
     "author": "",
     "license": "ISC",
     "engines": {
-        "node": ">=15.2.1",
-        "npm": ">=7.0.8"
+        "node": ">=15.x",
+        "npm": ">=7.x"
     },
     "dependencies": {
       "cool-ascii-faces": "^1.3.4",
